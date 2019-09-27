@@ -32,7 +32,7 @@ Create a role with an inline policy that will allow the function to start and st
 }  
 ```
 ### B. Configure the function on Lamda console
-1. Download the function [lambda_function.zip](https://github.com/ericsoi/Schedule-start-stop-of-AWS-ec2-instances/lambda_function.zip)
+1. Download the function [lambda_function.zip](https://github.com/ericsoi/Schedule-start-stop-of-AWS-ec2-instances/blob/master/lambda_function/lambda_function.py)
 2. Navigate to [AWS lambda console](https://console.aws.amazon.com/lambda/)
 3. Select **create function**
 4. Under **Name**, enter the name of your function
